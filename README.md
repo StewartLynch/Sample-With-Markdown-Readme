@@ -1,6 +1,6 @@
-#  How to Show Rendered Markup
+#  How to Show Rendered READEME.md Markup
 
-You can include a Markdown file, like a README.md in your projects and normally, this is displayed in Xcode as raw Markup.  If you want to show it as rendered markup, you can do the following:
+You can include a Markdown README.md in your projects and normally, this is displayed in Xcode as raw Markup if you include it in your Xcode project.  If you want to show it as rendered markup, you can do the following:
 
 1. Right click on the **xcodeproj** file and choose **Show Package Contents**
 2. Create a new text file and call it `.xcodesamplecode.plist`
@@ -19,3 +19,4 @@ If you are not seeing the .xcodesamplecode.plist file, then type **⌘ ⇧ .** T
 
 Now the markdown will be rendered in Xcode too.
 
+![BeforeAfterImage](Images/BeforeAfterImage.png)
