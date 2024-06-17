@@ -1,4 +1,4 @@
-#  How to Show Rendered READEME.md Markup
+#  How to Show Rendered README.md Markup
 
 You can include a Markdown README.md in your projects and normally, this is displayed in Xcode as raw Markup if you include it in your Xcode project.  If you want to show it as rendered markup, you can do the following:
 
