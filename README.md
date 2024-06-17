@@ -4,7 +4,7 @@ You can include a Markdown README.md in your projects and normally, this is disp
 
 1. Right click on the **xcodeproj** file and choose **Show Package Contents**
 2. Create a new text file and call it `.xcodesamplecode.plist`
-3. Paste this code into the file and save it so that it creates a hidden plist and save it
+3. Paste this code into the file and save it so that it creates a hidden plist file
 
 ```swift
 <?xml version="1.0" encoding="UTF-8"?>
